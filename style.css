@@ -5,5 +5,15 @@ body{
     text-align: center;
     font-family: Arial;
     color: darkgoldenrod;
-    background: black;
+    background: black 
+}
+
+.click {
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    font-style: italic ;
+    font-size: 55px;
+    position: absolute;
+    margin-top: 15%;
+    left: 600px;
 }
